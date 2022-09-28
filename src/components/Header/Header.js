@@ -30,7 +30,7 @@ const Header = () => (
                         marginBottom: "20px",
                     }}
                 >
-                    <AiFillCode size="3rem" /> <Span>David Liberal</Span>
+                    <AiFillCode size="3rem" /> <Span>Nightly.dev</Span>
                 </a>
             </Link>
         </Div1>
