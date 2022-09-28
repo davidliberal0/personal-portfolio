@@ -30,7 +30,8 @@ const Header = () => (
                         marginBottom: "20px",
                     }}
                 >
-                    <AiFillCode size="3rem" /> <Span>Nightly.dev</Span>
+                    <AiFillCode size="3rem" style={{ color: "#EDAA25" }} />{" "}
+                    <Span>Nightly.dev</Span>
                 </a>
             </Link>
         </Div1>
@@ -41,12 +42,12 @@ const Header = () => (
                 </Link>
             </li>
             <li>
-                <Link href="#projects">
+                <Link href="#technologies">
                     <NavLink>Technologies</NavLink>
                 </Link>
             </li>
             <li>
-                <Link href="#projects">
+                <Link href="#about">
                     <NavLink>About</NavLink>
                 </Link>
             </li>
