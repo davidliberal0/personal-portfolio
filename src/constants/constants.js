@@ -2,35 +2,35 @@ export const projects = [
     {
         title: "PokeExpert",
         description:
-            "The next generation of the Pokedex by modernizing and streamlining the original Pokemon Database. It's built for Pokemon nerds who need information fast. This project utilizes the PokeAPI to query over 1,000 assets via RESTful API and Asynchronous fetches. ",
-        image: "/images/1.png",
+            "This project redfines of the Pokedex by modernizing and streamlining the original Pokemon Database. It's built for Pokemon nerds who need information fast. This project utilizes the PokeAPI to query over 1,000 assets via RESTful API and Asynchronous fetches. ",
+        image: "/images/pokeexpert.png",
         tags: ["React.js", "Javascript", "Tailwind.css", "Node"],
         source: "https://google.com",
-        visit: "https://google.com",
+        visit: "https://github.com/davidliberal0/poke-expert-react",
         id: 0,
     },
     {
-        title: "Travel Landing Page",
+        title: "Wifi Troubleshooter",
         description:
-            "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-        image: "/images/2.png",
-        tags: ["HTML", "CSS"],
+            "A command-line interface application that troubleshoots wireless connection, logs, and allows for local login and account creation.",
+        image: "/images/cpp.png",
+        tags: ["C++"],
         source: "https://google.com",
-        visit: "https://google.com",
+        visit: "https://github.com/davidliberal0/wifi-troubleshooter",
         id: 1,
     },
     {
-        title: "WebRTC App",
+        title: "Travel Site Landing Page",
         description:
             "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-        image: "/images/3.jpg",
-        tags: ["React", "WebRTC"],
+        image: "/images/travelista.png",
+        tags: ["HTML", "CSS"],
         source: "https://google.com",
-        visit: "https://google.com",
+        visit: "https://github.com/davidliberal0/landing-page",
         id: 2,
     },
     {
-        title: "Unichat",
+        title: "Minimal Rockpaper Scissors",
         description:
             "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
         image: "/images/4.jpg",
@@ -42,9 +42,21 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-    { year: 2017, text: "Wrote 'Hello World' in Python" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
+    { year: 2017, text: "Wrote my very first 'Hello World' program in Python" },
+    {
+        year: 2019,
+        text: "Took first CS related course - Computer Science Principles. I learned to solve basic programming problems using JavaScript fundamentals.",
+    },
+    {
+        year: 2020,
+        text: "Attended Florida State University, majoring in Computer Science. There I wrote many programs primarily in C++.",
+    },
+    {
+        year: 2021,
+        text: "Reconsidered and began Self-Teaching Web Development",
+    },
+    {
+        year: 2022,
+        text: "Became a Freelance Software Developer and began working on large-scale projects",
+    },
 ];

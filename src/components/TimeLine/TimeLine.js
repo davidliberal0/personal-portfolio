@@ -71,7 +71,11 @@ const Timeline = () => {
             <br />
             <SectionTitle>About Me</SectionTitle>
             <SectionText>
-                My journey as a Self-Taught Software Developer.
+                During my jouney, I faced many challenges, although my passion
+                for Computer Science added fuel to the fire in me to continue
+                pursing my goal to become a Software Developer. I spent
+                countless hours self-teaching the ins and outs of web
+                development and OOP principles.
             </SectionText>
             <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
                 <>
