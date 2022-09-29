@@ -4,7 +4,7 @@ export const projects = [
         description:
             "The next generation of the Pokedex by modernizing and streamlining the original Pokemon Database. It's built for Pokemon nerds who need information fast. This project utilizes the PokeAPI to query over 1,000 assets via RESTful API and Asynchronous fetches. ",
         image: "/images/1.png",
-        tags: ["Mongo", "Express", "React", "Node"],
+        tags: ["React.js", "Javascript", "Tailwind.css", "Node"],
         source: "https://google.com",
         visit: "https://google.com",
         id: 0,
